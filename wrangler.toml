@@ -8,7 +8,7 @@ compatibility_flags = ["nodejs_compat"]
 STORE_R2 = true
 R2_INPUT_DEVICES_FILENAME = "warp_vips.json"
 R2_INPUT_GROUPS_FILENAME = "okta_groups.json"
-GROUPS = ["engineering","finance","marketing","contractors"]
+GROUPS = ["engineering","finance","marketing","contractors","research"]
 R2_OUTPUT_FILENAMES = "warp_vips_" # the filenames will be warp_vips_<groupname>.json
 
 [triggers]
