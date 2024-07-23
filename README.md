@@ -1,4 +1,4 @@
- This worker will update the gateway list with WARP virtual IPs. It works in combination with the warp-vips workers and okta-group-users worker.
+ This worker will update the gateway list with WARP virtual IPs. It works in combination with the warp-vips worker and okta-group-users worker.
   
  The worker can be triggered on demand when querying the worker hostname AND according to a cron schedule
   
